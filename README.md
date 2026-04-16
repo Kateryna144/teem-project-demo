@@ -7,6 +7,6 @@ learning project
 - kateryna14-student
 
 ## goal
-learn branches
-pull request
-merge conflict
+- learn branches
+- pull request
+- merge conflict
