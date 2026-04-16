@@ -2,9 +2,9 @@
 learning project
 
 ## teem members
--Kateryna144 - teem lead
--kateryna-chnu
--kateryna14-student
+- Kateryna144 - teem lead
+- kateryna-chnu
+- kateryna14-student
 
 ## goal
 learn branches
