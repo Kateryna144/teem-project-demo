@@ -16,6 +16,10 @@ learning project
 
 
 
+### feature-kateryna144 
+
+added some new feature by Kateryna 144 - user autentification
+
 ### feature-kateryna14-student
 
 added some new feature by Kateryna14-student - architecture description
