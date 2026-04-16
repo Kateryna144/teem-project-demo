@@ -20,5 +20,14 @@ learning project
 
 added some new feature by Kateryna 144 - user autentification
 
+### feature-kateryna14-student
+
+added some new feature by Kateryna14-student - architecture description
+
+
+### feature-kateryna-chnu
+
+added some new feature by Kateryna-chnu - user interface design description
+
 
 
