@@ -21,4 +21,9 @@ learning project
 added some new feature by Kateryna14-student - architecture description
 
 
+### feature-kateryna-chnu
+
+added some new feature by Kateryna-chnu - user interface design description
+
+
 
