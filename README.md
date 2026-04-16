@@ -16,6 +16,9 @@ learning project
 
 
 
+### feature-kateryna14-student
+
+added some new feature by Kateryna14-student - architecture description
 
 
 ### feature-kateryna-chnu
