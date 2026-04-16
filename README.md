@@ -1,12 +1,24 @@
 # teem-project-demo
+
 learning project
 
 ## teem members
-- Kateryna144 - teem lead
-- kateryna-chnu
-- kateryna14-student
+
+* Kateryna144 - teem lead
+* kateryna-chnu
+* kateryna14-student
 
 ## goal
-- learn branches
-- pull request
-- merge conflict
+
+* learn branches
+* pull request
+* merge conflict
+
+
+
+### feature-kateryna14-student
+
+added some new feature by Kateryna14-student - architecture description
+
+
+
